@@ -1,0 +1,129 @@
+ticker,name,sector
+AALR3,"Alliar",Saúde
+ABCB4,"Banco ABC Brasil",Financeiro
+ABEV3,"Ambev",Consumo não Cíclico
+AERI3,"Aeris Energy",Bens Industriais
+AESB3,"AES Brasil",Utilidade Pública
+AGRO3,"BrasilAgro",Consumo não Cíclico
+ALLD3,"Allos",Financeiro
+ALPA4,"Alpargatas",Consumo Cíclico
+ALUP11,"Alupar",Utilidade Pública
+AMAR3,"Marisa Lojas",Consumo Cíclico
+AMBP3,"Ambipar",Bens Industriais
+ANIM3,"Anima Educação",Consumo Cíclico
+ARZZ3,"Arezzo",Consumo Cíclico
+ASAI3,"Assaí",Consumo não Cíclico
+AURE3,"Auren Energia",Utilidade Pública
+AZUL4,"Azul",Bens Industriais
+B3SA3,"B3",Financeiro
+BBAS3,"Banco do Brasil",Financeiro
+BBDC3,"Bradesco",Financeiro
+BBDC4,"Bradesco",Financeiro
+BBSE3,"BB Seguridade",Financeiro
+BEEF3,"Minerva",Consumo não Cíclico
+BHIA3,"Grupo Casas Bahia",Consumo Cíclico
+BMGB4,"Banco BMG",Financeiro
+BPAC11,"BTG Pactual",Financeiro
+BPAN4,"Banco Pan",Financeiro
+BRAP4,"Bradespar",Materiais Básicos
+BRFS3,"BRF",Consumo não Cíclico
+BRKM5,"Braskem",Materiais Básicos
+BRSR6,"Banrisul",Financeiro
+CAML3,"Camil",Consumo não Cíclico
+CASH3,"Méliuz",Tecnologia da Informação
+CBAV3,"CBA",Materiais Básicos
+CCRO3,"CCR",Bens Industriais
+CEAB3,"C&A Modas",Consumo Cíclico
+CMIG4,"CEMIG",Utilidade Pública
+COGN3,"Cogna Educação",Consumo Cíclico
+CPFE3,"CPFL Energia",Utilidade Pública
+CPLE6,"COPEL",Utilidade Pública
+CRFB3,"Carrefour Brasil",Consumo não Cíclico
+CSAN3,"Cosan",Energia
+CSMG3,"COPASA",Utilidade Pública
+CSNA3,"CSN",Materiais Básicos
+CURY3,"Cury",Consumo Cíclico
+CVCB3,"CVC Brasil",Consumo Cíclico
+CYRE3,"Cyrela",Consumo Cíclico
+DASA3,"DASA",Saúde
+DIRR3,"Direcional",Consumo Cíclico
+ECOR3,"EcoRodovias",Bens Industriais
+EGIE3,"Engie Brasil",Utilidade Pública
+ELET3,"Eletrobras",Utilidade Pública
+ELET6,"Eletrobras",Utilidade Pública
+EMBR3,"Embraer",Bens Industriais
+ENAT3,"Enauta",Energia
+ENEV3,"Eneva",Utilidade Pública
+ENGI11,"Energisa",Utilidade Pública
+EQTL3,"Equatorial",Utilidade Pública
+EVEN3,"Even",Consumo Cíclico
+EZTC3,"EZTEC",Consumo Cíclico
+FESA4,"Ferbasa",Materiais Básicos
+FLRY3,"Fleury",Saúde
+GFSA3,"Gafisa",Consumo Cíclico
+GGBR4,"Gerdau",Materiais Básicos
+GOAU4,"Metalúrgica Gerdau",Materiais Básicos
+GOLL4,"GOL",Bens Industriais
+GRND3,"Grendene",Consumo Cíclico
+GUAR3,"Guararapes",Consumo Cíclico
+HAPV3,"Hapvida",Saúde
+HYPE3,"Hypera",Saúde
+IGTI11,"Iguatemi",Financeiro
+IRBR3,"IRB Brasil RE",Financeiro
+ITSA4,"Itaúsa",Financeiro
+ITUB4,"Itaú Unibanco",Financeiro
+JBSS3,"JBS",Consumo não Cíclico
+JHSF3,"JHSF",Consumo Cíclico
+KLBN11,"Klabin",Materiais Básicos
+LREN3,"Lojas Renner",Consumo Cíclico
+LWSA3,"Locaweb",Tecnologia da Informação
+MDIA3,"M. Dias Branco",Consumo não Cíclico
+MGLU3,"Magazine Luiza",Consumo Cíclico
+MOVI3,"Movida",Consumo Cíclico
+MRFG3,"Marfrig",Consumo não Cíclico
+MRVE3,"MRV",Consumo Cíclico
+MULT3,"Multiplan",Financeiro
+MYPK3,"Iochpe-Maxion",Bens Industriais
+NEOE3,"Neoenergia",Utilidade Pública
+NTCO3,"Natura &Co",Consumo não Cíclico
+PCAR3,"Pão de Açúcar",Consumo não Cíclico
+PETR3,"Petrobras",Energia
+PETR4,"Petrobras",Energia
+PETZ3,"Petz",Consumo Cíclico
+PNVL3,"Panvel",Saúde
+POMO4,"Marcopolo",Bens Industriais
+POSI3,"Positivo Tec",Tecnologia da Informação
+PRIO3,"Prio",Energia
+PSSA3,"Porto Seguro",Financeiro
+QUAL3,"Qualicorp",Saúde
+RADL3,"Raia Drogasil",Saúde
+RAIL3,"Rumo",Bens Industriais
+RAIZ4,"Raízen",Energia
+RDOR3,"Rede D'Or",Saúde
+RENT3,"Localiza",Consumo Cíclico
+RRRP3,"3R Petroleum",Energia
+SANB11,"Santander Brasil",Financeiro
+SAPR11,"SANEPAR",Utilidade Pública
+SBSP3,"SABESP",Utilidade Pública
+SEER3,"Ser Educacional",Consumo Cíclico
+SLCE3,"SLC Agrícola",Consumo não Cíclico
+SMFT3,"Smartfit",Consumo Cíclico
+SOMA3,"Grupo SOMA",Consumo Cíclico
+SQIA3,"Sinqia",Tecnologia da Informação
+STBP3,"Santos Brasil",Bens Industriais
+SUZB3,"Suzano",Materiais Básicos
+TAEE11,"TAESA",Utilidade Pública
+TEND3,"Tenda",Consumo Cíclico
+TIMS3,"TIM",Telecomunicações
+TOTS3,"Totvs",Tecnologia da Informação
+TRPL4,"Transmissão Paulista",Utilidade Pública
+TUPY3,"Tupy",Bens Industriais
+UGPA3,"Ultrapar",Energia
+USIM5,"Usiminas",Materiais Básicos
+VALE3,"Vale",Materiais Básicos
+VAMO3,"Vamos",Bens Industriais
+VBBR3,"Vibra Energia",Energia
+VIVA3,"Vivara",Consumo Cíclico
+VIVT3,"Vivo",Telecomunicações
+WEGE3,"WEG",Bens Industriais
+YDUQ3,"YDUQS",Consumo Cíclico
